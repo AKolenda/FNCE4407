@@ -42,4 +42,6 @@ John Kelly
 
 # Rules of thumb
 - don't ever put 5% of a port into an individual stock
-
+- Calculator allowed
+- 75% theory, 25% calculation
+- Same pool of questions that will be on the midterm and final
