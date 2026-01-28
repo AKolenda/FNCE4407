@@ -32,4 +32,14 @@ Or you can pay someone to do it, lol
   - Stops you out when you hit below a certain price (risk management tool)
 - Stop Buy Order
   - If stock rises to a specified price
+ 
+John Kelly
+- Guy that does probabilities
+- Don't do heads and tails whether he buys Canadian energy services ETC
+
+## How to determine to buy a stock
+- Look at requirements and break them down
+
+# Rules of thumb
+- don't ever put 5% of a port into an individual stock
 
