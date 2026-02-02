@@ -45,3 +45,83 @@ John Kelly
 - Calculator allowed
 - 75% theory, 25% calculation
 - Same pool of questions that will be on the midterm and final
+
+# Calculating Average
+Example;
+
+Day 1 - 100
+Day 2 - 102
+Day 3 - 101
+Day 4 - 105
+Day 5 - 98
+
+Caluclating Average
+
+100+102+101+105+98 / 5 = 101.2
+
+
+- How can we protect downside of the investment
+- Use stuff like standard deviation
+
+Flotation costs = cost to go into the market and raising capital
+
+## Step 2, find each prices dev from the average
+- 100 - 101.2 = -1.2
+- 102 - 101.2 = 0.8
+- 101 - 101.2 = -0.2
+- 105 - 101.2 = 3.8
+- 98 - 101.2 = -3.2
+
+### Standard deviation
+- 1 SD = 68%
+- 2 SD = 95%
+- 3 SD = 99.73%
+
+#### Calculating SD
+- -1.2^2 = 1.44
+- 0.8^2 = 0.64
+- -0.2^2 = 0.04
+- 3.8^2 = 14.44
+- -3.2^2 = 10.24
+
+#### Caclulating varience (VAR)
+- Need to deduct one period, example, if you're analyzing 5 days, you need to do 5-1
+- 1.44+0.64+0.04+14.44+10.24/5-1 = 26.8/4 = 6.7
+- Now you need to square root 6.7, = 2.59
+- 2.59 =  SD
+
+# Anti Correlation Stocks
+- For Example, NG Comapnies v Potash companies
+- Input for potash is natural gas, therefore potash companies go down in value, natural gas companies stock goes up
+
+# Correlation Stocks
+- Stock A kind of tracks Stock B
+
+# Calculating Correlation
+Apple stock / MSFT Stock in same time period
+1. A: 2, M: 1
+2. A: 4, M: 3
+3. A: -1, M:-2
+4. A: 3, M: 2
+5. A: 0, M: 1
+
+## Calculate average return
+Apple = 2+4+-1+3+0 / 5 = 1.6
+MSFT = 1+3+-2+2+1 / 5 = 1
+
+## Compute Deviation
+- Take the price - the average
+- Square it
+- 
+## Calculate Covarianece
+
+
+
+
+## Calculate Correlation
+Standard deviation
+Apple - 2.11
+MSFT - 1.8
+
+3.5 / (2.1*1.8) = 0.93
+Correlation min = -1, max = 1
